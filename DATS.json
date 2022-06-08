@@ -57,7 +57,7 @@
         "landingPage": "https://www.braincode.ca/",
         "authorizations": [
           {
-            "value": "registered"
+            "value": "private"
           }
         ]
       }
